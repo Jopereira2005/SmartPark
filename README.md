@@ -1,1 +1,1 @@
-# Smart-Park
+# SmartPark
